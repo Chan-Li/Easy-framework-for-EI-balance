@@ -5,7 +5,5 @@ The first model is in Model1 shown in Amit & Brunel, 1997:
 \tau_{m} \dot{V}^{\alpha}(t) =-V^{\alpha}(t)+V_{\text {leak }}+I^{\alpha}(t)
 \end{equation}
 where
-\begin{equation}
-\tau_{\alpha} \dot{I}_{i}^{\alpha}(t)=-I_{i}
-\end{equation}
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large  \tau_{\alpha} \dot{\mu}_{i}^{\alpha}(t)=-I_{i}^{\alpha}(t)+\tau_{m} \sum_{\beta} \sum_{j}^{C} J_{i j}^{\alpha \beta} \sum_{k} \delta\left(t_{i j}^{k}-t\right)" style="border:none;">
 This is achieved in Model1.
