@@ -1,7 +1,7 @@
 # Easy-framework-for-EI-balance with external populations of Poisson processes
 # This is a simple framework to realize excitatory and inhibitory balance. In this project, three kinds of models are exhibited.
-The first model is in Model1 shown in paper of Amit & Brunel, 1997 with different neuronal constant for LIF dynamics.
-The second model is in Model2 shown in papers of Amit & Brunel, 1997 and Brunel 2020 when the time constant of the currents is much shorter than that of potentials for LIF dynamics.
+The first model is in Model1 shown in paper of Amit & Brunel, 1997 with different neuronal constant for LIF dynamics.  
+The second model is in Model2 shown in papers of Amit & Brunel, 1997 and Brunel 2020 when the time constant of the currents is much shorter than that of potentials for LIF dynamics.  
 The third model is the Exponential integrate - and - fire model.  
 The formulation of three models are show in the document of  _Three models for EI balance.pdf_.  
 The figures of currents and the network response are shown in the document, which is rarely seen using pure python.
