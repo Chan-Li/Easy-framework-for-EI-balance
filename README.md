@@ -6,6 +6,6 @@ The first model is in Model1 shown in Amit & Brunel, 1997:
 \end{equation}
 where
 \begin{equation}
-\tau_{\alpha} \dot{I}_{i}^{\alpha}(t)=-I_{i}^{\alpha}(t)
+\tau_{\alpha} \dot{I}_{i}^{\alpha}(t)=-I_{i}^{\alpha}
 \end{equation}
 This is achieved in Model1.
